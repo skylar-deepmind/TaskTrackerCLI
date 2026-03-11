@@ -1,0 +1,10 @@
+# 忽略编译后的类文件
+*.class
+
+# 忽略本地域名或IDE配置文件（如果有的话）
+.idea/
+*.iml
+.vscode/
+
+# （可选）你可以选择不上传本地的测试数据
+task-tracker.json
