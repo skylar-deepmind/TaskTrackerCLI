@@ -2,6 +2,12 @@
 
 A minimal Java CLI task tracker with local JSON persistence (no external JSON library).
 
+## 🔗 项目链接 (Project Links)
+
+本项目是基于 [roadmap.sh](https://roadmap.sh/) 提供的后端实战项目构建的解决方案。
+
+* **项目需求说明**: [Task Tracker Project](https://roadmap.sh/projects/task-tracker)
+
 ## Features
 - Add, update, delete tasks
 - Mark task status: `todo`, `in-progress`, `done`
